@@ -1,2 +1,2 @@
 # Testgithub
-Github tutorial
+Github is great
